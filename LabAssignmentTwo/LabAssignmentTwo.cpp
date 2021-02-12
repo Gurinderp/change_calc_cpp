@@ -1,8 +1,3 @@
-// Program    : Lab Assignment 2
-// Author     : Gurinderpreet Singh
-// Date       : February 8, Spring 2021
-// Description: This lab requires the input of quarters, dimes, nickels, and pennies to be summed up and the output of the sum to be accurate.
-
 #include <iostream>
 
 void inputChangeModule(int& amountQuarters, int& amountDimes, int& amountNickels, int& amountPennies);
